@@ -189,7 +189,7 @@ Check the `app.py` file for details on:
 - **Clone the repo**:
 
 ```bash
-git clone <this-repo-url>
+git clone https://github.com/manishKrMahto/World-Happiness-report-2021.git
 cd World-Happiness-report-2021
 ```
 
